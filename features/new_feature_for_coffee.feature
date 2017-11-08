@@ -4,3 +4,4 @@ Feature:new feature for coffee
 
   Scenario:test the coffee          
     <Some interesting scenario steps here>
+    Given
